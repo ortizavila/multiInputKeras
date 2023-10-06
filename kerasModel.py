@@ -1,6 +1,6 @@
 ############################################################################################
 # Referencias:										   #
-# François Chollet with J.J. Allaire - Deep Learning with R-Manning Publications (2017).pdf#
+# François Chollet with J.J. Allaire - Deep Learning with R-Manning Publications 2017      #
 # https://pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/		   #
 #											   #
 ############################################################################################
